@@ -1,0 +1,53 @@
+body{
+    background-image:url("https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-my-resume-background-material-image_177383.jpg");
+}
+table{
+    position: relative;bottom: 200px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color:rgb(2, 65, 2) ;
+    text-transform: capitalize;
+}
+h2{
+    color:rgb(2, 65, 2)
+}
+img{
+    position: relative; top:10px;
+    position: relative; left:400px;
+}
+
+#competence,#hobbies{
+    border: black 2px solid;
+}
+#competence{
+    width: 40%;
+    margin: 0 auto;
+    padding: 3%;
+}
+#hobbies{
+    width: 40%;
+    margin: 0 auto;
+}
+p, li {
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 1px;
+    padding-left: 2%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+      }
+.presdroite{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif
+
+}
+.presgauche{
+    width: 50%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    
+}
+tbody{
+    display: block;
+    padding-top: 5%;
+}

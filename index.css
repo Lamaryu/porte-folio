@@ -1,0 +1,108 @@
+th,table{
+    text-align: center;
+    height: 5%;
+    background-color: rgb(1, 26, 51);
+    color: white;
+    border: rgb(255, 255, 255) 3px ridge;
+    border-collapse: collapse;
+}
+th{
+    width: 22%;
+}
+table{
+    width: 100%;
+    margin-top: -17px ;
+}
+h1{
+    text-align: justify;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-size: 40px; 
+    text-align: center;
+}
+h2{ 
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: white;
+    font-style: oblique;
+    font-size: 30px;    
+    tab-size: 4;
+    padding-left: 48%;
+}
+p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-align: justify;
+    color: white;
+ }   
+#nom,#age{
+    padding-left: 20%;
+}
+
+#nom{
+    font-size:25px ;
+}
+body{
+    background-image: linear-gradient(50deg, #180538 15%, #24021c 85%);
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1800px;
+    font: .9em/1.2 Arial, Helvetica, sans-serif
+}
+img{
+    float: left;
+    margin-right: 15px;
+    width: 250px;
+    height: auto;
+    border-radius: 5px;
+    padding-bottom: 50px;
+    padding-left: 400px;
+    padding-right: 50px;
+}
+.text{
+    clear: left;
+    text-align: center
+}
+a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+}
+  a:hover{
+    background-image: linear-gradient(45deg, #6a89cc 15%, #b71540 85%);
+  }
+  a:active{
+    background-image: linear-gradient(45deg, #b71540 15%, #6a89cc 85%);
+  }
+  .E-mail{
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 7.7%;
+    padding-bottom: 7.7%;
+  }
+  .expro{
+    padding-left: 21%;
+    padding-right: 21%;
+    padding-top: 7.7%;
+    padding-bottom: 7.7%;
+  }
+  .comp{
+    padding-left: 35.5%;
+    padding-right: 35.5%;
+    padding-top: 7.7%;
+    padding-bottom: 7.7%;
+  }
+  .proj{
+    padding-left: 37.7%;
+    padding-right: 37.7%;
+    padding-top:10%;
+    padding-bottom: 10%;
+  }
+  .cv{
+    padding-left: 43%;
+    padding-right: 43%;
+    padding-top: 18.5%;
+    padding-bottom: 18.5%;
+  }
