@@ -1,0 +1,134 @@
+body {
+  background-image: linear-gradient(50deg, #180538 15%, #24021c 85%);
+  margin: 0 auto;
+  /* width: 80%;
+      max-width: 1800px;
+      font: .9em/1.2 Arial, Helvetica, sans-serif */
+}
+
+/* .lien,#nav{
+    text-align: center;
+    height: 5%;
+    background-color: rgb(1, 26, 51);
+    color: white;
+    border: rgb(255, 255, 255) 3px ridge;
+    border-collapse: collapse;
+}
+
+.lien{
+    width: 22%;
+}
+
+#nav{
+    width: 100%;
+} */
+
+h1 {
+  text-align: justify;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+table{
+  width: 100%;
+}
+.bor2{
+  padding-right: 3rem;
+}
+
+.tab {
+  width: 100%;
+}
+
+.titre1 {
+  width: 750px;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.titre2 {
+  width: 750px;
+  text-align: center;
+  padding-right: 3rem;
+}
+
+#competence, #hobbies {
+  text-align: center;
+  text-align: justify;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  line-height: 3;
+  letter-spacing: 1px;
+  font-size: 22px;
+}
+
+.liste {
+  text-align: center;
+  border-bottom: 3px rgb(109, 13, 109) solid;
+  list-style-type: cjk-ideographic;
+  margin-left: 20px;
+}
+
+a:hover {
+  background-image: linear-gradient(45deg, #6a89cc 15%, #b71540 85%);
+}
+
+a:active {
+  background-image: linear-gradient(45deg, #b71540 15%, #6a89cc 85%);
+}
+
+header {
+  background-color: rgb(139, 22, 1);
+}
+
+.petit {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  margin: 0%;
+  color: black;
+}
+
+.navigation {
+  padding: 0;
+  width: 100%;
+  margin-bottom: 0%;
+}
+
+.onglet {
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.lien {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 16.474%;
+  margin-right: 0%;
+  text-align: center;
+  line-height: 3;
+  color: black;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+#retour {
+  outline: none;
+  text-decoration: none;
+  color: black;
+}
+
+.lien:hover {
+  background-color: darkblue;
+  color: white
+}
+
+li:last-child a {
+  margin-right: 0;
+}
+
+.logo {
+  font-size: 35px;
+}

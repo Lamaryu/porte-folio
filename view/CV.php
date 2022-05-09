@@ -1,9 +1,11 @@
 <html>
+    
     <head>
         <meta charset="UTF-8">
         <title>CV de David Watine</title>
-        <link rel="stylesheet" href="stylecv.css">
+        <link rel="stylesheet" href="../public/CSS/CV.css">
     </head>
+
     <body>
         <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RCi5NKFeyWHdY1-vF6oZOULmtvFzkYv0tw&usqp=CAU" >
         <table>

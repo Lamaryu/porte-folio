@@ -1,0 +1,105 @@
+body {
+  background-image: linear-gradient(50deg, #180538 15%, #24021c 85%);
+  margin: 0 auto;
+}
+
+#h1 {
+  text-align: justify;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+
+#h2 {
+  font-size: 30px;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  border-top: 3px rgb(109, 13, 109) solid;
+  padding-top: 2%;
+}
+
+#ul {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: justify;
+  color: white;
+  padding-bottom: 15px;
+}
+
+a:hover {
+  background-image: linear-gradient(45deg, #6a89cc 15%, #b71540 85%);
+}
+
+a:active {
+  background-image: linear-gradient(45deg, #b71540 15%, #6a89cc 85%);
+}
+
+header {
+  background-color: rgb(139, 22, 1);
+}
+
+.vitemonvol {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  float: left;
+  padding-top: 2rem;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 0%;
+}
+
+.petit {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: oblique;
+  margin: 0%;
+  color: black;
+}
+
+.navigation {
+  padding: 0;
+  width: 100%;
+  margin-bottom: 0%;
+}
+
+.onglet {
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.lien {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 16.474%;
+  margin-right: 0%;
+  text-align: center;
+  line-height: 3;
+  color: black;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+#retour {
+  outline: none;
+  text-decoration: none;
+  color: black;
+}
+
+.lien:hover {
+  background-color: darkblue;
+  color: white
+}
+
+li:last-child a {
+  margin-right: 0;
+}
+
+.logo {
+  font-size: 35px;
+}
