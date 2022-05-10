@@ -8,7 +8,7 @@
     </head>
 
     <body>
-    <header class="border-bottom border-2 border-dark" style="margin-bottom: 2.5rem;">
+    <header class="border-bottom border-2 border-dark sticky-top" style="margin-bottom: 2.5rem;">
         <div class="paraphrase">
             <h4 class="text-center petit" style="padding-top: 30px; padding-bottom: 20px"><strong>Le porte-folio de David Watine</strong></h4>
         </div>

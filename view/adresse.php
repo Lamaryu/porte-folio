@@ -37,7 +37,9 @@
         <ul class="contac">
             <li class="text-center info"><h2 class="soustitre">Adresse :</h2><p>3 allée des ... ,  Orleans ,  45000</h2></li>
             <li class="text-center info"><h2 class="soustitre">E-Mail :</h2><p>david.watine@gmail.com</h2></li>
-            <li class="text-center info"><h2 class="soustitre">Téléphone :</h2><p class="bordure">07.83.40.84.56</h2></li>
+            <li class="text-center info"><h2 class="soustitre">Téléphone :</h2><p>07.83.40.84.56</h2></li>
+            <li class="text-center info"><h2 class="soustitre">Réseaux sociaux : <div class="image"><p class="bordure"><a href="https://www.instagram.com/david.watine/"><img src="../public/image/insta.jpg" alt=""></a>
+            <a href="https://www.linkedin.com/in/david-watine/"><img src="../public/image/linkedin.png" alt=""></a></div></li>
         </ul>
         <form action="../admin/traitement.php" method="POST" class="form shadow-lg p-3 mb-5 bg-body rounded">
             <h3 class="text-center from-titre">Merci de laisser vos coordonnées</h3>

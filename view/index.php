@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <header class="border-bottom border-2 border-dark" style="margin-bottom: 2.5rem;">
+    <header class="border-bottom border-2 border-dark sticky-top" style="margin-bottom: 2.5rem;">
         <div class="paraphrase">
             <h4 class="text-center petit" style="padding-top: 30px; padding-bottom: 20px"><strong>Le porte-folio de David Watine</strong></h4>
         </div>
@@ -23,13 +23,18 @@
             </ul>
         </nav>
     </header>
-    <h1>Book de David Watine</h1><br><br>
-    <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0RCi5NKFeyWHdY1-vF6oZOULmtvFzkYv0tw&usqp=CAU"> </div>
-    <h2>Bonjour, Enchanté </h2><br>
-    <p class="text-center nom">je m'appelle David Watine,</p>
-    <p class="text-center age">née en 2002 a Vendome en France,</p><br>
-    <p class="text">j'ai commencer ma vie avec pour intension de travaller dans les sciences physique qui me passionne, j'ai donc obetenu un bac scientifique pour aller en prepa. <br> Mais suite a une remise en question je me suis poser cette questions : Est-ce-que travailler dans ce domaine te rendra heureux ? <br> <br> <br>
-        suite a cela j'ai decidé de suivre la voie de l'informatique, intérressé par se monde depuis mon plus jeune age cela m'a paru comme une évidence. <br> Cependant je ne voulais plus avoir des cours comme a l'école et l'alternance m'a paru remplir ce point là, j'ai donc rejoint l'ecole IT qui répondais à mes exigence. </p>
+    <h1 class="titre">Book de David Watine</h1>
+    <h2 class="text-center titre-texte">Bonjour, Enchanté </h2>
+    <div class="presen">
+        <p class="text-center nom">je m'appelle David Watine,</p>
+        <p class="text-center age"> Née en 2002 à Vendôme en France,</p>
+    </div>
+    <div class="texte">
+        <p class="text"> Actuellement élève en 1re Année d’ingénierie Informatique à l’école IT, j'ai pour projet de devenir ingénieur informatique dans la physique.</p>
+        <p class="text-center"> Afin de suivre cette voie, j'ai tout d'abord commencé par une prépa PCSI que j'ai dû arrêter pour des raisons de santé. Néanmoins, aimant les chalenges, je vais retenter et réussir ce que je n'ai pas pu finir.</p>
+        <p class="text-center"> L'école IT m'a permis d'acquérir des capacités informatiques et m'a fait découvrir le milieu professionnel. De plus, j'ai pris conscience du chemin que je voulais prendre, ce qui m'a fait grandir. </p>
+        <p class="text-center"> Le mode projet de l'école a développé mon sens de l'autonomie et de leadership, étant optimiste, polyvalent et passionner, je me suis épanouie dans la voie de l'informatique.</p>
+    </div>
 </body>
 
 </html>
